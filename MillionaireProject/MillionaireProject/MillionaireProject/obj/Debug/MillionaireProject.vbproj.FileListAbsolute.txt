@@ -1,0 +1,12 @@
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\bin\Debug\MillionaireProject.exe
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\bin\Debug\MillionaireProject.exe.config
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\obj\Debug\MillionaireProject.vbproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\obj\Debug\MillionaireProject.Form1.resources
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\obj\Debug\MillionaireProject.Resources.resources
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\obj\Debug\MillionaireProject.vbproj.GenerateResource.cache
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\obj\Debug\MillionaireProject.vbproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\obj\Debug\MillionaireProject.exe
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\obj\Debug\MillionaireProject.xml
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\obj\Debug\MillionaireProject.pdb
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\bin\Debug\MillionaireProject.pdb
+C:\Users\jacks\Desktop\1 - Work Experience project\MillionaireProject\MillionaireProject\MillionaireProject\bin\Debug\MillionaireProject.xml
